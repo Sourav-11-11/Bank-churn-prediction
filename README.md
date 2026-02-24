@@ -54,3 +54,47 @@ This project builds predictive models to identify customers likely to leave, ena
 ---
 
 ## 📁 Project Structure
+- Bank_Churn_Classification.ipynb
+- dataset.csv
+- README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/repository-name.git
+
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+
+3. Open the notebook:
+
+jupyter notebook
+
+
+---
+
+## 📌 Key Insights
+
+- Customers with lower tenure show higher churn rates.
+- Balance and credit score significantly impact churn prediction.
+- Random Forest provided the best overall performance.
+
+---
+
+## 🎯 Outcome
+
+The final model successfully predicts potential churn customers, helping banks take preventive action and improve customer retention.
+
+---
+
+## 👨‍💻 Author
+
+Sourav Vemuru  
+Full-Stack Developer (MERN) | ML Enthusiast
